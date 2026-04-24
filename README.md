@@ -10,11 +10,11 @@ A (simple) machine learning model for classifying tumor vs normal in H&amp;E lym
 ## Results
 | Metric    | Score  |
 |-----------|--------|
-| Accuracy  | 91.67% |
+| Accuracy  | 0.91   |
 | Precision | 0.92   |
 | Recall    | 0.92   |
-| F1-Score  | 91.00  |
-| AUC-ROC   | 97.59  |
+| F1-Score  | 92.0   |
+| AUC-ROC   | 0.98   |
 
 ## How to Run
 
@@ -31,13 +31,13 @@ pip install -r requirements.txt
 
 ## Requirements
 
-tensorflow>=2.10.0
-numpy>=1.21.0
-matplotlib>=3.5.0
-scikit-learn>=1.0.0
-h5py>=3.7.0
-pillow>=9.0.0
-seaborn>=0.11.0
+- tensorflow =2.10.0
+- numpy =1.21.0
+- matplotlib =3.5.0
+- scikit-learn =1.0.0
+- h5py =3.7.0
+- pillow =9.0.0
+- seaborn =0.11.0
 
 ## Acknowledgments
 
