@@ -5,7 +5,7 @@ A (simple) machine learning model for classifying tumor vs normal in H&amp;E lym
 - **Task**: Binary classification (Normal vs. Tumor)
 - **Dataset**: PatchCamelyon (96x96 RGB patches)
 - **Model**: Transfer Learning with MobileNetV2
-- **Accuracy**: 91,7%
+- **Accuracy**: 91,67%
 
 ## Results
 | Metric    | Score  |
@@ -13,7 +13,7 @@ A (simple) machine learning model for classifying tumor vs normal in H&amp;E lym
 | Accuracy  | 0.91   |
 | Precision | 0.92   |
 | Recall    | 0.92   |
-| F1-Score  | 92.0   |
+| F1-Score  | 0.92   |
 | AUC-ROC   | 0.98   |
 
 ## How to Run
