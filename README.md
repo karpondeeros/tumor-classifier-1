@@ -39,6 +39,11 @@ pip install -r requirements.txt
 - pillow =9.0.0
 - seaborn =0.11.0
 
+  ## Future Improvements
+  - Get more RAM for more training data next time :D
+  - Threshold optimization
+  - Multi-class classification to differentiate between tumor subtypes
+
 ## Acknowledgments
 
 - Dataset: [PatchCamelyon](https://github.com/basveeling/pcam)
